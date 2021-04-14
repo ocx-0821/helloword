@@ -1,2 +1,3 @@
-# helloword
-helloword
+public class hello{
+  public int sum();
+}
